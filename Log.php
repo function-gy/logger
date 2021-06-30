@@ -36,7 +36,7 @@ define('PEAR_LOG_TYPE_SAPI',    4); /* Use the SAPI logging handler */
  * @since   Horde 1.3
  * @package Log
  */
-class Log
+class Logger
 {
     /**
      * Indicates whether or not the log can been opened / connected.
